@@ -16,16 +16,6 @@
 
 ---
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ## ⭐ GitHub Stats
 
 <a href="https://github.com/ViniciusNL">
@@ -55,7 +45,7 @@ Organizo anotações, resumos e desafios resolvidos em repositórios próprios e
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Atuei em projetos acadêmicos de física de materiais, simulando estruturas, analisando dados experimentais e desenvolvendo soluções computacionais.<br><br>
+  Atuei em projetos acadêmicos de física, simulando, analisando dados experimentais e desenvolvendo soluções computacionais.<br><br>
   Atualmente, foco em aplicar ciência de dados e machine learning para problemas científicos e empresariais, sempre aprendendo e compartilhando conhecimento.<br><br>
   Acredito que a ciência pode ser potencializada com tecnologia e bons dados. Aprender construindo é o caminho! 🧠⚡
 </p>
