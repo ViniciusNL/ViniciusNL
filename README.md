@@ -27,9 +27,7 @@
 
 ## 📚 Meus estudos
 
-Organizo anotações, resumos e desafios resolvidos em repositórios próprios e contribuo para projetos que unem ciência e tecnologia.
-
-> Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, ajudar outros pesquisadores e devs curiosos 🚀
+Organizo anotações detalhadas passo a passo e resumos em física teórica e aplicada, com foco em Mecânica Clássica, Eletromagnetismo, Estrutura da Matéria, Mecânica Quântica, Termodinâmica e Física da Matéria Condensada.
 
 ---
 
@@ -69,8 +67,3 @@ Organizo anotações, resumos e desafios resolvidos em repositórios próprios e
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ViniciusNL.ViniciusNL&left_color=blueviolet&right_color=deepskyblue" width="80" />
 </div>
 
----
-
-<!--
-Sinta-se à vontade para sugerir projetos favoritos, incluir uma citação pessoal ou destacar publicações!
--->
