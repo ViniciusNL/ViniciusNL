@@ -9,7 +9,7 @@
 ## Sobre mim
 
 - 🎓 Físico de Materiais pela Universidade de Pernambuco (UPE);
-- 💻 Pesquisador em física computacional;
+- 💻 Cientista Pesquisador em física computacional;
 - 🚀 Transitando para a área de ciência de dados e inteligência artificial;
 - 📚 Atualmente aprendendo SQL e aprimorando habilidades em Data Science & Machine Learning;
 - 🌍 Interessado em desafios que unem ciência, tecnologia e inovação.
