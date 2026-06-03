@@ -1,17 +1,16 @@
 # Olá, eu sou Vinícius Leal!
 
 <p align="left">
-  Físico pela Universidade de Pernambuco (UPE), com forte interesse em ciência de dados, inteligência artificial e aplicações computacionais em física e engenharia. Minha formação como físico me proporcionou uma base sólida em modelagem matemática, análise de dados, programação científica (Python, C/C++) e sistemas complexos, competências que aplico com foco em Data Science e Machine Learning, áreas pelas quais venho me aprofundando continuamente.
+  Físico e cientista pesquisador. Bacharel em Física (Física de Materiais) pela Universidade de Pernambuco (UPE). Mestrando em Física pela Universidade Federal de Pernambuco (UFPE). Pesquisa em física teórica e computacional. Membro internacional da American Physical Society (APS). Cofundador da startup Particle Play na área de saúde e tecnologia (health tech). Fundador do grupo de pesquisa em computação quântica Q-Trust AI.
 </p>
 
 ---
 
 ## Sobre mim
 
-- 🎓 Físico de Materiais pela Universidade de Pernambuco (UPE);
-- 💻 Cientista Pesquisador em física computacional;
-- 🚀 Transitando para a área de ciência de dados e inteligência artificial;
-- 📚 Atualmente aprendendo SQL e aprimorando habilidades em Data Science & Machine Learning;
+- 🎓 Bacharel em Física (Física de Materiais) pela Universidade de Pernambuco (UPE);
+- 📚 Mestrando em Física pela Universidade Federal de Pernambuco (UFPE);
+- 💻 Pesquisa em física teórica e computacional;
 - 🌍 Interessado em desafios que unem ciência, tecnologia e inovação.
 
 ---
