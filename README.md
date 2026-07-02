@@ -15,15 +15,6 @@
 
 ---
 
-## ⭐ GitHub Stats
-
-<a href="https://github.com/ViniciusNL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusNL&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNL&layout=compact&langs_count=6&theme=radical"/>
-</a>
-
----
-
 ## 📚 Meus estudos
 
 Organizo anotações detalhadas passo a passo e resumos em física teórica e aplicada, com foco em Mecânica Clássica, Eletromagnetismo, Estrutura da Matéria, Mecânica Quântica, Termodinâmica e Física da Matéria Condensada.
