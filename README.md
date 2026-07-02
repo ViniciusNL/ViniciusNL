@@ -15,12 +15,6 @@
 
 ---
 
-## 📚 Meus estudos
-
-Organizo anotações detalhadas passo a passo e resumos em física teórica e aplicada, com foco em Mecânica Clássica, Eletromagnetismo, Estrutura da Matéria, Mecânica Quântica, Termodinâmica e Física da Matéria Condensada.
-
----
-
 ## Tecnologias e linguagens 💻
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,pycharm,anaconda,arduino,latex,vscode,discord,gmail)](https://skillicons.dev)
