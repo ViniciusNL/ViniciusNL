@@ -10,7 +10,7 @@
 
 - 🎓 Bacharel em Física (Física de Materiais) pela Universidade de Pernambuco (UPE);
 - 📚 Mestrando em Física pela Universidade Federal de Pernambuco (UFPE);
-- 💻 Pesquisa em física teórica e computacional;
+- 💻 Pesquisa em física teórica e computacional em redes complexas;
 - 🌍 Interessado em desafios que unem ciência, tecnologia e inovação.
 
 ---
