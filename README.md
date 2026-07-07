@@ -17,7 +17,7 @@
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,pycharm,anaconda,arduino,latex,vscode,discord,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,pycharm,anaconda,arduino,latex,vscode,linux)](https://skillicons.dev)
 
 ### 🚀 Explorando também
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,matlab,pytorch,r,github)](https://skillicons.dev)
