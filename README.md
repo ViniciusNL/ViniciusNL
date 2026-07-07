@@ -50,4 +50,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ViniciusNL.ViniciusNL&left_color=blueviolet&right_color=deepskyblue" width="80" />
 </div>
-
